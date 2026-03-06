@@ -1,62 +1,23 @@
-# Hi 👋 I'm Vimalathas Vithusha
+<img width="322" height="322" alt="image" src="https://github.com/user-attachments/assets/4f228801-c884-4e5c-8dd6-892272137477" /># Hi 👋 I'm Vimalathas Vithusha
 
 🎓 ICT Undergraduate Student  
-💻 Learning C Programming, Python, and Programming Fundamentals  
-🌱 Currently improving my programming and problem-solving skills  
+🤖 Aspiring **AI Engineer**  
+💻 Learning Programming and Artificial Intelligence  
+### 💻 Languages & Tools
 
----
+### 🚀 About Me
 
-## 🚀 About Me
+- 🎓 ICT Student from Sri Lanka  
+- 💻 Currently learning **C Programming & Python**  
+- 🤖 Interested in **Artificial Intelligence & Data Science**  
+- 🧠 Practicing coding and building programming projects  
 
-- 🎓 I am an **ICT undergraduate student**
-- 💻 Currently learning **C Programming**
-- 📚 Interested in **Software Development, Programming, and Data Science**
-- 🧠 Practicing coding regularly to improve my skills
-- 🎯 My goal is to become a **professional software developer**
+### 📂 My Projects
 
----
+- 🔹 C Programming Practice  
+- 🔹 Programming Exercises  
+- 🔹 Learning Python  
 
-## 🧑‍💻 Programming Languages
-
-- C Programming
-- Python (Learning)
-
----
-
-## 📚 Topics I Have Learned in C
-
-- Basics of C Programming
-- Variables and Data Types
-- Arithmetic Operations
-- User Input
-- If Statements
-- Nested If
-- Switch Statement
-- For Loop
-- While Loop
-- Arrays
-- Strings
-- Functions
-- Recursion
-- Pointers
-- Structures
-- Unions
-- File Handling
-- Dynamic Memory Allocation
-
----
-
-## 📂 My Projects
-
-### C Programming Practice
-Repository containing many C programs such as:
-
-- Basic Programs
-- Calculator Program
-- Loops and Conditions
-- Array Programs
-- String Programs
-- Pointer Programs
-- File Handling Programs
-
-Repository Link:https://github.com/vvithusha/c-programming-practice
+📁 Repository:  
+https://github.com/vvithusha/c-programming-practice
+⭐ Always learning and improving my programming skills.
