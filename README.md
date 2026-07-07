@@ -52,3 +52,27 @@
 ---
 
 ## 💻 Languages I Use
+
+
+---
+
+## 📂 Featured Projects
+
+🔹 Add your best projects here
+
+Example:
+
+- 🚀 Project Name - Short description
+- 🚀 Project Name - Short description
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: your-email@example.com
+
+🔗 LinkedIn: your-linkedin-profile
+
+---
+
+⭐️ From [vvithusha](https://github.com/vvithusha)
