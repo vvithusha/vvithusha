@@ -44,8 +44,7 @@
 ## 📊 GitHub Activity
 
 ## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vvithusha&theme=tokyonight)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvithusha&theme=radical)
 
 ---
 
