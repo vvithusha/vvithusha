@@ -43,11 +43,9 @@
 
 ## 📊 GitHub Activity
 
-![GitHub followers](https://img.shields.io/github/followers/vvithusha?style=for-the-badge)
+## 🔥 GitHub Streak
 
-![GitHub stars](https://img.shields.io/github/stars/vvithusha?style=for-the-badge)
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=vvithusha&style=for-the-badge)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vvithusha&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
