@@ -66,9 +66,9 @@ Example:
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: thasvithusha@gmail.com
 
-🔗 LinkedIn: your-linkedin-profile
+🔗 LinkedIn: https://www.linkedin.com/in/vithushadev?
 
 ---
 
